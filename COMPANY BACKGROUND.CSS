@@ -1,0 +1,11 @@
+title{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: aquamarine;
+}
+{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
