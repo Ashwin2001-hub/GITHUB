@@ -1,0 +1,29 @@
+body {
+    background-color: aliceblue;
+}
+h1{
+font-size: xx-large;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    background-color: antiquewhite;
+}
+a:link{
+    color: aqua;
+    background-color: antiquewhite;
+    text-decoration: none;
+}
+a:visited{
+    color: azure;
+    background-color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: bisque;
+    background-color: blueviolet;
+    text-decoration: none;
+}
+a:active{
+    color: aquamarine;
+    background-color: beige;
+    text-decoration: none;
+}
