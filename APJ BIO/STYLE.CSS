@@ -9,3 +9,13 @@ button{
 table, th, td{
     border: 1px;
 }
+#CLICK{
+    background-color: aqua;
+    float: right;
+}
+#MYNAME{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#button{
+    float: none;
+}
